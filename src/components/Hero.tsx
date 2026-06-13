@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import CornerDecor from "./CornerDecor";
 import Divider from "./Divider";
 import Countdown from "./Countdown";
-import coupleHeroBg from "../assets/hero-bg-2.jpeg";
+import coupleHeroBg from "../assets/Hero-bg-2.jpeg";
 import GaneshPhoto from "../assets/ganesh.jpeg";
 
 const ease = [0.22, 1, 0.36, 1] as const;
