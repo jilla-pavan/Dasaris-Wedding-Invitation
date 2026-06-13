@@ -16,13 +16,13 @@ const EVENTS = [
   },
   {
     date: "2nd July 2026",
-    time: "6:00 PM",
+    time: "4:00 PM",
     title: "Haldi at Groom",
     desc: "Traditional turmeric ceremony",
   },
   {
     date: "2nd July 2026",
-    time: "6:00 PM",
+    time: "4:00 PM",
     title: "Haldi at Bride",
     desc: "Traditional turmeric ceremony",
   },
