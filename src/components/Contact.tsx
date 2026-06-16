@@ -40,11 +40,11 @@ export default function Contact() {
         <div className="w-12 h-px bg-[#c9a227] mx-auto mb-4" />
 
         <p className="font-crimson text-[#7a5030] text-base leading-relaxed mb-5">
-          Sri Dasari Adinarayana Rao
+          Dasari Lakshmi Venkata Malleswar
           <br />
           &amp;
           <br />
-          Smt. Sarada Devi
+          Smt.Dasari Srilakshmi
         </p>
 
         <a

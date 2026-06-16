@@ -23,7 +23,7 @@ const ROWS = [
   {
     label: "Groom",
     value: "Naga Venkata Krishna Sai Aditya",
-    sub: "S/o Sri Dasari Adinarayana Rao & Smt. Sarada Devi",
+    sub: "S/o Dasari Lakshmi Venkata Malleswar & Smt.Dasari Srilakshmi",
     highlight: false,
   },
   {

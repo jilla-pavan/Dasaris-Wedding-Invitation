@@ -30,7 +30,9 @@ export default function Welcome() {
         transition={{ duration: 0.7, delay: 0.2 }}
         className="font-crimson text-[#5a3a1a] text-base sm:text-lg leading-loose max-w-2xl mx-auto mb-8"
       >
-        <strong className="text-maroon">Sri Dasari Adinarayana Rao</strong>{" "}
+        <strong className="text-maroon">
+          Dasari Lakshmi Venkata Malleswar
+        </strong>{" "}
         cordially invite you to witness the sacred union of their Son{" "}
         <strong className="text-maroon">
           Chi. Naga Venkata Krishna Sai Aditya

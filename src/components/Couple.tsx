@@ -53,7 +53,7 @@ export default function Couple() {
             The Groom
           </p>
           <p className="font-crimson italic text-gold-muted text-sm">
-            S/o Sri Dasari Adinarayana Rao & Smt. Sarada Devi
+            S/o Dasari Lakshmi Venkata Malleswar & Smt. Dasari Srilakshmi
           </p>
         </motion.div>{" "}
         {/* Heart */}
@@ -160,9 +160,9 @@ export default function Couple() {
             </p>
 
             <div className="font-crimson text-gold-muted text-base leading-relaxed">
-              <p>Sri Dasari Adinarayana Rao</p>
+              <p>Dasari Lakshmi Venkata Malleswar</p>
               <p>&</p>
-              <p>Smt. Sarada Devi</p>
+              <p>Smt. Dasari Srilakshmi</p>
             </div>
           </div>
 
