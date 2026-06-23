@@ -17,7 +17,7 @@ export default function Couple() {
           The Couple
         </span>
         <h2 className="font-playfair text-3xl sm:text-4xl text-gold mb-2">
-          Aditya &amp; Ramyasri
+          Aditya Dasari &amp; Ramyasri
         </h2>
         <p className="font-crimson italic text-gold-muted text-base">
           United in the sacred bond of Mesha Lagnam
@@ -41,7 +41,7 @@ export default function Couple() {
             <div className="w-full h-full rounded-[50%_50%_44%_44%] overflow-hidden border-[3px] border-gold">
               <img
                 src={groomPortrait}
-                alt="Aditya — The Groom"
+                alt="Aditya Dasari — The Groom"
                 loading="lazy"
                 decoding="async"
                 className="w-full h-full object-cover object-top"
@@ -148,9 +148,7 @@ export default function Couple() {
             </p>
 
             <h3 className="font-playfair text-3xl text-white font-bold leading-tight">
-              Naga Venkata
-              <br />
-              Krishna Sai Aditya
+              Aditya Dasari
             </h3>
 
             <div className="w-16 h-px bg-gold mx-auto my-5" />

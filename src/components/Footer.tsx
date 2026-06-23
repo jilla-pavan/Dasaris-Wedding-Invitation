@@ -11,7 +11,7 @@ export default function Footer() {
       >
         {/* Couple Names */}
         <p className="font-dancing text-gold text-4xl md:text-5xl mb-3">
-          Aditya ♡ Ramyasri
+          Aditya Dasari ♡ Ramyasri
         </p>
 
         {/* Decorative Divider */}

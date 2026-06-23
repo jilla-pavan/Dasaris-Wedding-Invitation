@@ -59,7 +59,7 @@ export default function Gallery() {
       >
         <img
           src={couple}
-          alt="Aditya & Ramyasri — Together Forever"
+          alt="Aditya Dasari & Ramyasri — Together Forever"
           decoding="async"
           className="w-full h-auto block transition-transform duration-700 group-hover:scale-105"
         />

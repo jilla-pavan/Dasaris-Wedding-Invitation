@@ -35,7 +35,7 @@ export default function Welcome() {
         </strong>{" "}
         cordially invite you to witness the sacred union of their Son{" "}
         <strong className="text-maroon">
-          Chi. Naga Venkata Krishna Sai Aditya
+          Chi. Aditya Dasari
         </strong>{" "}
         with <strong className="text-maroon">Chi. La. Sou. Ramyasri</strong> —
         D/o Smt. &amp; Sri Chittala Srinivasa Rao - Padmavathi.

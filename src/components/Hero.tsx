@@ -94,7 +94,7 @@ export default function Hero() {
         >
           <div className="text-center">
             <p className="font-dancing text-white text-5xl sm:text-6xl leading-none drop-shadow-lg">
-              Naga Venkata Krishna Sai Aditya
+              Aditya Dasari
             </p>
             <p className="font-crimson italic text-gold-muted text-xs sm:text-sm mt-1">
               Sr. Software Engineer | Rocket India — The Groom
@@ -167,7 +167,7 @@ export default function Hero() {
         >
           <a
             href={`https://wa.me/919347542642?text=${encodeURIComponent(
-              "Congratulations on Aditya & Ramyasri wedding! We will definitely attend!",
+              "Congratulations on Aditya Dasari & Ramyasri wedding! We will definitely attend!",
             )}`}
             target="_blank"
             rel="noopener noreferrer"
